@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620905859 source:c:\users\psarmiento1783\desktop\ayed\holamundo\holamundo\ejercicio4_tp\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
